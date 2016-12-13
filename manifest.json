@@ -1,0 +1,15 @@
+{
+    "DirectoryName": "_dist",
+    "Description": "root",
+    "Files":
+    [
+        {
+            "FileName": "test.cr",
+            "Name": "TestCustomReport",
+            "Description": "Test Custom Report",
+            "Version": "1.0",
+            "Author": "Jonathan Smith",
+            "DatePublished": "2016-12-08T09:44:00.673Z"
+        }
+    ]
+}
