@@ -1,6 +1,24 @@
 {
     "DirectoryName": "_dist",
     "Description": "root",
+    "Directories":
+    [
+        {
+            "DirectoryName": "testdir",
+            "Description": "test dir",
+            "Files":
+            [
+		{
+	            "FileName": "test2.cr",
+		    "Name": "TestCustomReport2",
+		    "Description": "Test Custom Report 2",
+		    "Version": "1.0",
+		    "Author": "Jonathan Smith",
+		    "DatePublished": "2016-12-08T09:44:00.673Z"
+	   	}
+            ]
+        }
+    ],
     "Files":
     [
         {
