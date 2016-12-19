@@ -8,18 +8,18 @@
             "Description": "test dir",
             "Files":
             [
-				{
-					"FileName": "test2.cr",
-					"Name": "TestCustomReport",
-					"Description": "Test Custom Report",
-					"Version": "1.0",
-					"Author": "Jonathan Smith",
-					"DatePublished": "2016-12-08T09:44:00.673Z"
-				}
+		{
+	            "FileName": "test2.cr",
+		    "Name": "TestCustomReport2",
+		    "Description": "Test Custom Report 2",
+		    "Version": "1.0",
+		    "Author": "Jonathan Smith",
+		    "DatePublished": "2016-12-08T09:44:00.673Z"
+	   	}
             ]
         }
     ],
-	"Files":
+    "Files":
     [
         {
             "FileName": "test.cr",
